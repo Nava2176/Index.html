@@ -20,6 +20,6 @@
     </style>
 </head>
 <body>
-    <h1>I Know I am Hot, Thank You</h1>
+    <h1>I Know I am Hot, Thank You for scanning</h1>
 </body>
 </html>
